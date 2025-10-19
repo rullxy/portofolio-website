@@ -72,7 +72,7 @@ Easily personalize by:
 - Updating content in HTML files
 - Replacing placeholder images
 - Adjusting color schemes for light/dark modes
-
+- Skill Icons that can be changed (in html)
 ## ⚡ Performance Optimized
 
 - ✅ **Lightweight** - No heavy frameworks
