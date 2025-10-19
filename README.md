@@ -55,7 +55,7 @@ A stunning, fully responsive portfolio website with smooth animations and modern
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/rullxy/portofolio-website.git
 
 # Open in browser
 open index.html
